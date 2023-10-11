@@ -1,6 +1,7 @@
 # godjango
-Django Channels처럼 쓸 수 있는 Go Fiber Websocket 라이브러리 
-godjango is a Go library for creating WebSocket-based real-time communication in your Go applications. It is inspired by Django Channels and provides an easy way to implement WebSocket functionally in your Go projects.
+Django Channels처럼 쓸 수 있는 Go Fiber Websocket 라이브러리  
+godjango is a Go library for creating WebSocket-based real-time communication in your Go applications.  
+It is inspired by Django Channels and provides an easy way to implement WebSocket functionally in your Go projects.
 
 ## Installation
 To use godjango in your project, simply add it to your Go module using `go get`:
