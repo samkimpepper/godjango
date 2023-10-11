@@ -6,6 +6,7 @@ godjango is a Go library for creating WebSocket-based real-time communication in
 To use godjango in your project, simply add it to your Go module using `go get`:
 ```sh
 go get github.com/samkimpepper/godjango
+```
 
 # Getting Started
 ## Example Usage
